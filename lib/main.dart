@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.black,
         appBar: AppBar(
           title: Text('Nutriped'),
           backgroundColor: Colors.blueGrey[900],
